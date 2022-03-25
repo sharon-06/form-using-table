@@ -1,0 +1,14 @@
+table{
+    border-collapse:collapse;
+  }
+  td,table{
+  border:2px solid black;
+  }
+  input{
+    border:none;
+  }
+  .tabledata{
+    background:rgb(126, 219, 131);
+  }
+  
+  
